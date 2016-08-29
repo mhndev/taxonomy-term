@@ -1,0 +1,28 @@
+{
+  "name": "mhndev/taxonomy-term",
+  "description": "taxonomy term implementation in php",
+  "keywords": ["taxonomy", "term", "category"],
+  "homepage": "https://github.com/mhndev/taxonomy-term",
+  "type": "library",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/mhndev/taxonomy-term/issues",
+    "source": "https://github.com/mhndev/taxonomy-term"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "mhndev\\taxonomyTerm": "src"
+    }
+  },
+
+
+  "minimum-stability": "stable",
+
+  "require": {
+    "php": ">=5.4.0"
+  }
+
+
+
+}
